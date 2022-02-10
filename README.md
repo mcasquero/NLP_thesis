@@ -1,4 +1,4 @@
-# **EX Analysis in labor social media, applying NLP techniques**
+# **Employee Experience (EX) analysis in labor social media, applying NLP techniques**
 ### Data Science Master Final Project
 
 Advanced analytics applied to people changes the paradigm completely. It goes from intuition-based decision making to evidence-based decision making, that means, based on insights provided by data analysis. 
